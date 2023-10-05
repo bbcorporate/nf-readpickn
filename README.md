@@ -1,5 +1,7 @@
 ## Simple Nextflow script to truncate FASTQ files ##
 
+public repo - do not commit any secrets 
+
 This is intended to be a super-simple positive control example for running Nextflow in a Docker container
 
 Take the first N reads of a pair of FASTQ files and output truncated FASTQ files.
