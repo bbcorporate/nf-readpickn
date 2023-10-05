@@ -3,9 +3,11 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
-# nextflow directories
+# nextflow directories and logs
 work/
 results/
+.nextflow/
+.nextflow.*
 
 # example fastq.gz files
 data/*.fastq.gz
